@@ -13,6 +13,7 @@
 4. [Deployment Modes](./04-deployment.md) -- AWS and Mac mini configurations
 5. [Security Model](./05-security.md) -- Isolation, credentials, mount security
 6. [Dependencies](./06-dependencies.md) -- What we reuse vs build
+7. [Workspace Files](./07-workspace-files.md) -- How SOUL.md/AGENTS.md work, OpenClaw's exact mechanism, KavakClaw's ~100-line equivalent
 
 ## Context
 
